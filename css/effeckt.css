@@ -625,7 +625,7 @@
 
 .md-effect-7 .effeckt-modal {
   transform: translateY(-100%);
-  transition: all .3s;
+  transition: all 0.3s;
   opacity: 0; }
 
 .effeckt-show.md-effect-7 .effeckt-modal {
@@ -682,10 +682,10 @@
 
 .effeckt-show.md-effect-12 .effeckt-modal {
   opacity: 1;
-  background: #555; }
+  background: #555555; }
 
 .effeckt-show.md-effect-12 ~ .effeckt-overlay {
-  background: #555; }
+  background: #555555; }
 
 .md-effect-12, .md-effect-12 h3 {
   background: transparent; }
@@ -1326,7 +1326,7 @@
   transform: translateX(-50%);
   bottom: 125%;
   border-radius: 10px;
-  background: #333;
+  background: #333333;
   color: white;
   padding: 0.45rem 0.8rem;
   font-size: 90%;
@@ -1336,7 +1336,7 @@
   content: "";
   width: 0;
   height: 0;
-  border-top: 5px solid #333;
+  border-top: 5px solid #333333;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   position: absolute;
@@ -1361,7 +1361,7 @@
   transform: translateX(-50%);
   top: 125%;
   border-radius: 10px;
-  background: #333;
+  background: #333333;
   color: white;
   padding: 0.45rem 0.8rem;
   font-size: 90%;
@@ -1370,7 +1370,7 @@
   content: "";
   width: 0;
   height: 0;
-  border-bottom: 5px solid #333;
+  border-bottom: 5px solid #333333;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   position: absolute;
